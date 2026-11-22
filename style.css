@@ -1,3 +1,6 @@
+.*{
+    background-color: rgb(11, 107, 107);
+}
 .pageContainer{
     display: flex;
     flex-direction: column;
